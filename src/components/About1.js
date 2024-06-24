@@ -66,7 +66,7 @@ const About = () => {
             >
               Hello! I'm Anandhu S, a passionate developer based in India. I
               have a strong foundation in front-end and MERN stack development.
-              With several years of experience, I am proficient in technologies
+              I am proficient in technologies
               like React, Node.js, MongoDB, and more.
             </Typography>
             <Typography variant="body1" style={{ textAlign: "center" }}>
