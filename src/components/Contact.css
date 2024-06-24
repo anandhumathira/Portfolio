@@ -1,0 +1,27 @@
+/* Contact.css */
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.icon {
+    font-size: 1.2rem;
+    color: #6b7280; /* Adjust color as needed */
+}
+
+.contact-item span a {
+    color: #4f46e5; /* Adjust link color as needed */
+    text-decoration: none;
+}
+
+.contact-item span a:hover {
+    text-decoration: underline;
+}
